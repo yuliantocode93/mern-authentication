@@ -50,3 +50,6 @@ Clone the repository from :`git clone https://github.com/yuliantocode93/mern-aut
 8. `npm install react-router-dom`
 
 ## For Backend
+
+1. `npm init`
+
