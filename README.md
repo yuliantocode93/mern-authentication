@@ -54,3 +54,5 @@ Clone the repository from :`git clone https://github.com/yuliantocode93/mern-aut
 1. `npm init -y`
 2. `npm i express`
 3. `npm i nodemon` then change scripts in package.json to `nodemon api/index.js`
+4. `npm i mongoose`
+5. `npm i dotenv`
