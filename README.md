@@ -16,6 +16,7 @@
 - React Js
 - Redux
 - Tailwindcss
+- Vite
 
 <br />
 
@@ -57,3 +58,4 @@ Clone the repository from :`git clone https://github.com/yuliantocode93/mern-aut
 4. `npm i mongoose`
 5. `npm i dotenv`
 6. `npm i bcryptjs`
+7. `npm i jsonwebtoken`
