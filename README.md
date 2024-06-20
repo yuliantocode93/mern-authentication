@@ -49,6 +49,7 @@ Clone the repository from :`git clone https://github.com/yuliantocode93/mern-aut
 6. `npm install -D tailwindcss postcss autoprefixer`
 7. `npx tailwindcss init -p`
 8. `npm install react-router-dom`
+9. `npm i @reduxjs/toolkit react-redux`
 
 ## For Backend
 
