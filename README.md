@@ -51,6 +51,7 @@ Clone the repository from :`git clone https://github.com/yuliantocode93/mern-aut
 8. `npm install react-router-dom`
 9. `npm i @reduxjs/toolkit react-redux`
 10. `npm i redux-persist`
+11. `npm i firebase`
 
 ## For Backend
 
@@ -61,3 +62,4 @@ Clone the repository from :`git clone https://github.com/yuliantocode93/mern-aut
 5. `npm i dotenv`
 6. `npm i bcryptjs`
 7. `npm i jsonwebtoken`
+8. `npm i cookie-parser`
